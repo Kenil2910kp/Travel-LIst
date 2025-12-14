@@ -1,4 +1,4 @@
- #✨ Features
+# ✨ Features
 
 - Add travel items using a form
 
@@ -14,7 +14,7 @@
 
   -- Number of packed items
 
-#🧠 What I Learned
+# 🧠 What I Learned
 
 - This project was built to strengthen core React concepts, including:
 
