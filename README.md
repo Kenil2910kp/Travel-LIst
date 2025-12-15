@@ -12,6 +12,7 @@
 
   -- Total number of items
 
+
   -- Number of packed items
 
 # 🧠 What I Learned
@@ -30,6 +31,6 @@
 
 - Managing lists with keys and array methods
 
-<img width="1470" height="827" alt="Screenshot 2025-12-14 at 11 32 08 PM" src="https://github.com/user-attachments/assets/4707b692-9bdc-4d7f-9585-6f313677b7b5" />
+<img width="1470" height="827" alt="Screenshot 2025-12-14 at 11 32 08 PM" src="https://github.com/user-attachments/assets/000ba2f4-5220-4dc9-bd4c-cb092f742a45" />
 
 
